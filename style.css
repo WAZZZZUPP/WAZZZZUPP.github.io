@@ -1,0 +1,37 @@
+div{
+    background-color:#a8a8a8ff;
+    color:#f7b2a6;
+}
+
+body{
+    background-color:#F7B2A6;
+}
+
+.center{
+    text-align:center;
+}
+
+
+.titles{
+     text-align:center;
+    font-size:100px;
+    
+}
+
+.titlesh2{
+     text-align:center;
+    font-size:75px;
+    
+}
+.buttonsize{
+    width:465px;
+    height:200px;
+}
+.text{
+    font-size:50px;
+    text-align:center;
+}
+.art{
+   height:400px; 
+   width:750px; 
+}
